@@ -67,5 +67,23 @@ header h2{
     font-style: italic;
 }
 
+/*FIM HEADER*/
 
-/*-FIM HEADER*/
+.menu-main{
+    width: 100%;
+    background-color: #639ac9;
+    padding: 8px;
+}
+
+.menu-main a{
+    display: inline-block;
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.menu-main a:hover{
+    opacity: 0.5;
+}
+
+/*-FIM MENU*/
